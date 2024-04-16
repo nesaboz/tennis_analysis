@@ -1,0 +1,6 @@
+ultralytics
+roboflow
+python-dotenv
+supervision 
+opencv-python
+matplotlib-inline

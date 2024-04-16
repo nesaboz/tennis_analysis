@@ -4,6 +4,9 @@ runs
 .DS_Store
 data.pkl
 __pycache__
-
+.env
+training/*/*
+models
 yolov8x.pt
 backyard.mov
+training/yolov5l6u.pt
